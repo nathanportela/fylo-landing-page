@@ -1,0 +1,191 @@
+@media only screen and (max-width: 845px) {
+    body {
+      /* background-color: lightblue; */
+      background-size: 700% 65%;
+    }
+
+    main{
+        margin: 3rem 6.5% 0 6.5%;
+    }
+
+    header img{
+        width: 15vw;
+        min-width: 5rem;
+    }
+
+    li{
+        font-size: 0.70rem;
+        margin-left: 1.5rem;
+    }
+
+.get-started{
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+}
+
+.get-started img{
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.get-started-left-column{
+    margin-top: 5rem;
+    margin-right: 0;
+    align-items: center;
+}
+
+.get-started-left-column h1{
+    font-size: 6.5vw;
+    line-height: initial;
+    text-align: center;
+}
+
+.get-started-left-column p{
+    margin: 1.5rem 1rem;
+    text-align: center;
+    font-size: 3.5vw;
+}
+
+.get-started-container{
+    margin-top: 0;
+    width: 70vw;
+}
+
+.get-started-container input{
+    width: 100%;
+}
+
+.get-started-container button{
+    width: 70vw;
+    margin-top: 15px;
+}
+
+.testimones{
+    margin-top: 10rem;    
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+}
+
+.right-column-illustration img{
+    width: 100%;
+}
+
+.testimones-left-column{
+    width: 100%;
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimones-left-column h2{
+    line-height: initial;
+    text-align: center;
+}
+
+.testimones-left-column p{
+    width: 100%;
+    line-height: initial;
+    font-size:calc(0.6rem + 1vw);
+}
+
+.how-works-link{
+    margin: 3rem 0;
+}
+
+.testimony-container{
+    min-width: 50vw;
+    min-height: 30vw;
+    justify-content: center;
+}
+
+blockquote{
+    font-size: max(2vw, 0.6rem);
+    line-height: 1rem;
+    margin: 1.5rem 1.7rem 0;
+}
+
+blockquote:before {
+    font-size: max(7vw, 30px);
+}
+
+.customer-profile{
+    height: 7vw;
+    min-height: 1.5rem;
+}
+
+.customer-profile img{
+    width: 7vw;
+    min-width: 1.5rem;
+ }
+
+ .customer-profile-info p{
+    margin: 0;
+    text-align: start;
+    line-height: initial;
+    font-size: max(1.5vw, 0.45rem);
+}
+
+.customer-profile-info .customer-name{
+    font-size: max(2vw, 0.50rem);
+}
+
+.access-today{
+    flex-direction: column;
+    justify-content: center;
+    height: 430px;
+}
+
+.access-today-left-column{
+    margin: 5vw;
+    margin-top: -30px;
+    width: 75%;
+}
+
+.access-today-left-column h3, p{
+    text-align: center;
+}
+
+.access-today-left-column p{
+    font-size: 1rem;
+    margin: 2rem 0 1rem;
+    line-height: 1.7rem;
+}
+
+.access-today-right-column{
+    width: 60%;
+    margin: 0;
+}
+
+.access-today-right-column input{
+    width: 100%;
+}
+
+.access-today-right-column button{
+    width: 100%;
+}
+
+.contact{
+    flex-direction: column;
+}
+
+.column p{
+    text-align: start;
+}
+
+.column{
+    margin-bottom: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;  
+}
+
+.column-4{
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+  }
+
